@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//begin 2e commit
 void main() {
   runApp(MyApp());
 }
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('images/angela.jpg'),
             ),
             Text(
-              'Angela Yu',
+              'Robert Zondervan',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40.0,
@@ -81,3 +82,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+ 
